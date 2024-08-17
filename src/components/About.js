@@ -6,8 +6,8 @@ const About = () => {
     <div >
       <h2 className="about-container">About Me</h2>
       <br/>
-      <p className="about-content-container">Hi, I'm Eddy. I'm graduating from the Bachelor of Science in Applied Computer Science(Network Security Optiion) 
-      program at BCIT in December 2026. I am taking this program as a continuation of my diploma in Computer Systems Technology(Client/Server Option).
+      <p className="about-content-container">Hi, I'm Eddy. I'm graduating from the Bachelor of Science in Applied Computer Science (Network Security Option) 
+      program at BCIT in December 2026. I am taking this program as a continuation of my diploma in Computer Systems Technology (Client/Server Option).
       I'm currently going into my second term.
       </p>
       <p className="about-content-container">
