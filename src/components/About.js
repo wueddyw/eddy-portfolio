@@ -1,5 +1,5 @@
 import React from 'react';
-import './About.css';
+import '../styling/About.css';
 
 const About = () => {
   return (
@@ -8,11 +8,11 @@ const About = () => {
       <br/>
       <p className="about-content-container">Hi, I'm Eddy. I'm graduating from the Bachelor of Science in Applied Computer Science (Network Security Option) 
       program at BCIT in December 2026. I am taking this program as a continuation of my diploma in Computer Systems Technology (Client/Server Option).
-      I'm currently going into my second term. AND I LOVE MY FIANCE LINDA SO MUCH.
+      I'm currently going into my second term.
       </p>
       <p className="about-content-container">
-      I've worked on several projects including web applications and APIs, and I'm confident with Python, C#, SQL, AWS, Django, Docker, and React.js. 
-      I'm looking for a full-time placement for January 2025 so if you'd like to connect, send me an email.
+      I've worked on several projects including web applications and APIs, and I'm confident with Python, C, SQL, Django, and React.js. 
+      I'm looking for a full-time coop placement for January 2025 so if you'd like to connect, send me an email.
       </p>
     </div>
   );

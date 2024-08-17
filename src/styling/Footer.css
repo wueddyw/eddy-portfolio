@@ -1,0 +1,6 @@
+#footer, .footer-text {
+    text-align: center; /* Center the text */
+    margin: 20px 0; /* Optional: add some margin for spacing */
+    font-size: 1rem; /* Adjust the font size as needed */
+    color: #333; /* Optional: customize the text color */
+}

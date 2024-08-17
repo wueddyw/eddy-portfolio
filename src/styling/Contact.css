@@ -1,0 +1,15 @@
+#contact {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 1rem;
+    color: #333;
+}
+
+a{
+    text-decoration: none;
+}
+
+h3{
+    font-size: 24px;
+    font-weight: bold;
+}
