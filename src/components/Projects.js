@@ -23,7 +23,7 @@ const projects = [
     Wrote server and client-side code to work for a C# server using Microsoft WebSocket library.`,
     technologies: 'Unity, C#, Node.js',
     link: 'https://github.com/wueddyw/Unity-WebSocket-Bomberman',
-    date: 'Jan - April 2024',
+    date: 'Dec 2020',
     image: demo, 
   },
   {
@@ -32,7 +32,7 @@ const projects = [
     Created the Firebase backend for hosting the game and facilitating authentication for the leaderboard.`,
     technologies: 'HTML, CSS, JavaScript, Phaser 3, Firebase',
     link: 'https://github.com/wueddyw/Social-Distance-Simulator',
-    date: 'Dec 2020',
+    date: 'Jan - April 2020',
     image: project3,
   },
 ];
