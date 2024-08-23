@@ -2,6 +2,7 @@
   display: flex;
   justify-content: center; /* Center horizontally */
   padding: 20px; /* Optional: Padding around the content */
+  font-size: 2em;
 }
 
 .about-container > div {
