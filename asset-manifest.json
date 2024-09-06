@@ -1,9 +1,11 @@
 {
   "files": {
-    "main.css": "/eddy-portfolio/static/css/main.98aadb7d.css",
-    "main.js": "/eddy-portfolio/static/js/main.253631a6.js",
+    "main.css": "/eddy-portfolio/static/css/main.bae75213.css",
+    "main.js": "/eddy-portfolio/static/js/main.6c1a6c6f.js",
+    "static/media/gloocel.gif": "/eddy-portfolio/static/media/gloocel.725e7333cce444da5dca.gif",
     "static/media/demo.gif": "/eddy-portfolio/static/media/demo.81625f7a68c4a2f97615.gif",
     "static/media/reliable_udp.gif": "/eddy-portfolio/static/media/reliable_udp.96860dfbf42f95e410ae.gif",
+    "static/media/me1.jpg": "/eddy-portfolio/static/media/me1.45277c0ba855c608af8c.jpg",
     "static/media/social_distance_sim.png": "/eddy-portfolio/static/media/social_distance_sim.4bba8df61c8b86a195f0.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/eddy-portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/eddy-portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -11,11 +13,11 @@
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/eddy-portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/eddy-portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/eddy-portfolio/index.html",
-    "main.98aadb7d.css.map": "/eddy-portfolio/static/css/main.98aadb7d.css.map",
-    "main.253631a6.js.map": "/eddy-portfolio/static/js/main.253631a6.js.map"
+    "main.bae75213.css.map": "/eddy-portfolio/static/css/main.bae75213.css.map",
+    "main.6c1a6c6f.js.map": "/eddy-portfolio/static/js/main.6c1a6c6f.js.map"
   },
   "entrypoints": [
-    "static/css/main.98aadb7d.css",
-    "static/js/main.253631a6.js"
+    "static/css/main.bae75213.css",
+    "static/js/main.6c1a6c6f.js"
   ]
 }
