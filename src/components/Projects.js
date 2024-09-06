@@ -1,6 +1,7 @@
 import React from 'react';
 import '../styling/Projects.css'; // Import the CSS file for styling
 import demo from '../assets/demo.gif';
+import gloocel from '../assets/gloocel.gif'
 import project3 from '../assets/social_distance_sim.png'
 import project1 from '../assets/reliable_udp.gif'
 import 'font-awesome/css/font-awesome.min.css';
@@ -16,6 +17,20 @@ const projects = [
     link: 'https://github.com/wueddyw/ReliableUDP-server-and-client',
     date: 'April 2024',
     image: project1,
+  },
+  {
+    title: 'Gloocel Protoype',
+    description: `As a Full-Stack Developer at Gloocel Innovations Inc. 
+    during the Industry Projects Practicum, I worked with a team of 4 to 
+    develop a Flutter app for a keyless entry system using Android Studio. 
+    I implemented the login and registration features with Dart, incorporating 
+    credential validation and session tokens for secure authentication. 
+    The app communicated with a backend server via REST APIs, sending HTTP 
+    requests to a Raspberry Pi that controlled an LED, showcasing a fully functional keyless entry system`,
+    technologies: 'Flutter, Dart, Python, REST API, Django',
+    link: 'https://github.com/wueddyw/Gloocel_Django_Demo',
+    date: 'Apr - May 2021',
+    image: gloocel, 
   },
   {
     title: 'Bomberman Replica',
@@ -47,19 +62,22 @@ const Projects = () => {
             {project.image && (
               <img src={project.image} alt={`${project.title} Demo`} className="project-gif" />
             )}
+            
             <div className="project-content">
               <h3 className="project-title">{project.title}</h3>
               <p className="project-technologies">{project.technologies}</p>
               <p className="project-description">{project.description}</p>
+              <div className="project-footer">
               <p className="project-date">{project.date}</p>
               <Button 
                 variant="primary" 
                 href={project.link}
                 target="_blank"
                 className="download-button"
-            >
+              >
                 <i class="fa fa-github"/>Repository
             </Button>
+            </div>
             </div>
           </div>
         ))}
