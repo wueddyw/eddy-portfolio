@@ -8,7 +8,7 @@ const ResumeSection = () => {
             <h3>Resume</h3>
             <Button 
                 variant="primary" 
-                href="https://drive.google.com/file/d/1cJ9ouLg78SodyRgdUPISNU8n60dBXjUo/view?usp=sharing" 
+                href="https://drive.google.com/file/d/1yjhF2yf9BfqdhMqiaFJKTh1U2pDpfN1-/view?usp=sharing" 
                 target="_blank"
                 className="download-button"
             >
